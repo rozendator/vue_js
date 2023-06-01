@@ -7,7 +7,7 @@
 </div>
 <div class="logo">
  
-    <img src="https://i.pinimg.com/564x/65/a7/3c/65a73c407eeca7daba4542412c16a7a5.jpg" alt="">
+    <img src="https://i.pinimg.com/564x/bb/c8/45/bbc8456f785e8cfefdd962fbe74ab14f.jpg" alt="">
 </div>
 <div class="info">
 <p> +7 777 475 0917</p>
@@ -23,6 +23,12 @@ footer{
     align-items: center;
     p{
         color: #B7B7B7;
+    }
+}
+.logo{
+    img{
+width: 100px;
+height: 100px;
     }
 }
 .social{
